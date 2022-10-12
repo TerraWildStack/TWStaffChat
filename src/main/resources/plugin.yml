@@ -1,0 +1,8 @@
+name: TWStaffChat
+version: '${project.version}'
+main: fr.terrawild.twstaffchat.TWStaffChat
+api-version: 1.19
+prefix: TWStaffChat
+depend: [ TerraWildAPI ]
+authors: [ NayeOne ]
+website: https://terrawild.fr
